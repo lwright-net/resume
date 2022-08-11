@@ -1,0 +1,73 @@
+#+title: Resume | CL Wright | August 2022
+#+author: Chirstopher Lane Wright
+#+date: last edit <2022-08-09 Tue>
+* Certificates
+** A+ Certified
++ here goes link to verification
+** Linux+ Certified
++ link to cert
+** InProgess TODO Security+
+** InProgess TODO CISSP
+* Personal projects
+** Self-hosted services [5/8]
++ [X] dedicated firewall macine
++ [X] Proxmox Virtualization Environment
++ [X] =vaultwarden= server
++ [ ] this website
++ [X] game streaming
+  - for the desktop gaming experience anywhere
++ [X] virtual desktop
+  - for a personal use machine anywhere
++ [ ] email server
+  - for privacy over =@gmail.com=
++ [ ] domain controler
+  - to have a singular login for any device
+  - roaming profiles/home directories
+* Experience
+** Prime Care Technologies
+*** Jan 03 2022 - present
+*** Help Desk Analyst I
+  + Answer incoming support requests by phone and email
+  + Reset user passwords for various applications
+    + Active Directory
+    + AHT
+    + PCC
+  + Use remote administration software to resolve support requests
+  + Use documentation and prior knowledge to troubleshoot:
+    + Networking
+    + Network printing
+    + Hardware issues
+      + Laptops
+      + Desktops
+      + Displays
+      + Cabling
+      + Printers
+    + Software issues
+      + MS Office
+      + Citrix
+      + Web Browsers
+      + Computer fallen off domain
+      + Drive enctryption recovery
+    + Online CMS for digital signage
+      + Offline signs
+      + Expected content not appearing
+** Peterbilt of Atlanta
+*** Oct 2018 - Oct 2021
+*** Diesel Technician Apprentice
++ Certified by Peterbilt (corporate) for troubleshooting and repairing NVH concerns
++ Certified by Peterbilt for troubleshooting and repairing the PACCAR transmission
++ Performed troubleshooting and diagnosis to address diesel vehicle issues.
++ Worked with parts department personnel to verify availability of required replacements.
++ Completed repairs in accordance with dealership and factory standards.
++ Estimated parts and labor costs.
++ Recorded all work performed and tagged appropriate parts.
++ Replaced worn and damaged components such as aftertreatment systems and suspension parts.
++ Cleaned and organized service area, tools, and instruments to maintain safe practices.
++ Identified and corrected problems with brakes, steering and other vehicle systems.
++ Troubleshot mechanical and electrical problems using diagnostic equipment to check functions
+  such as charging, ignition, and fuel injection.
++ Performed work safely, complying with safety rules and regulations in work areas.
++ Prevented more complex repair issues by completing common upkeep tasks like changing the
+  oil, checking the batteries and replacing belts.
++ Inspected heavy-duty diesel vehicles to repair transmissions, steering, braking, and cooling
+  systems.

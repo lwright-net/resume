@@ -1,6 +1,8 @@
 #+title: Resume | CL Wright | August 2022
 #+author: Chirstopher Lane Wright
 #+date: last edit <2022-08-09 Tue>
+
+
 * Certificates
 ** A+ Certified
 + here goes link to verification
@@ -23,6 +25,10 @@
 + [ ] domain controler
   - to have a singular login for any device
   - roaming profiles/home directories
+
+** TODO script data sanitization
++ create a script to automatically sanitize a disk
++ needs to follow guidelines published in NIST 800-88
 * Experience
 ** Prime Care Technologies
 *** Jan 03 2022 - present
@@ -71,3 +77,14 @@
   oil, checking the batteries and replacing belts.
 + Inspected heavy-duty diesel vehicles to repair transmissions, steering, braking, and cooling
   systems.
+
+* Education
+** Grayson High School
++ 2011-2015
+** Grayson High School Technical Education Program
++ 2014-2015
++ IT Networking program
++ Studied computer systems diagnostics
++ Printer troubleshooting
++ Networking
++ End of year project was to build a beowulf cluster using 24 raspberry pi computers
